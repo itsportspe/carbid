@@ -10,4 +10,3 @@ Written in html, css, javascript, php, mysql\
 MYSQL\
 Database Name: "registration"\
 Table Name: "users"
-\
