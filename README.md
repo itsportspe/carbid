@@ -11,4 +11,3 @@ MYSQL\
 Database Name: "registration"\
 Table Name: "users"
 \
-Written by Andrew
